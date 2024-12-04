@@ -1,0 +1,12 @@
+﻿Assembly-CSharp-Editor-firstpass.csproj
+.collabignore
+.vsconfig
+2D_RPG.sln
+Assembly-CSharp.csproj
+Assembly-CSharp-firstpass.csproj
+NavMeshPlus.csproj
+NavMeshPlusEditor.csproj
+Temp
+Library
+Logs
+Packages
